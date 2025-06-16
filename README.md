@@ -9,10 +9,10 @@ I pride myself on being a hard worker with a curiosity to learn new skills and s
 This portfolio summarises skills and abilities backed by my projects and experience.
 
 ## Languages
-Python, 
-R, 
-MATLAB, 
-BASH/Linux
+* Python
+* R
+* MATLAB
+* BASH/Linux
 
 
 
