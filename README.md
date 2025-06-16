@@ -33,7 +33,7 @@ Used Seurat, PCA, clustering, and STRING database to identify cell-type-specific
 ### GWAS & PRS Modelling – Blood Pressure Regulation
 Used PLINK to compute polygenic risk scores with LD clumping and thresholding for hypertension risk stratification
 
-### Phylogenetics – H5N1 Zoonotic Potential
+### Phylogenetics – H5N1 soonotic Potential
 Built maximum likelihood trees with MEGA-X and ClustalW to explore cross-species viral transmission
 
 ### Metabolomics – Hypoxic Neuroblastoma
